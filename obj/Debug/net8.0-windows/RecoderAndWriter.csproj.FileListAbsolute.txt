@@ -25,3 +25,4 @@ R:\csharp\RecoderAndWriter\obj\Debug\net8.0-windows\ref\RecoderAndWriter.dll
 R:\csharp\RecoderAndWriter\obj\Debug\net8.0-windows\RecoderAndWriter.FilenameSettingDialog.resources
 R:\csharp\RecoderAndWriter\obj\Debug\net8.0-windows\RecoderAndWriter.MainForm.resources
 R:\csharp\RecoderAndWriter\obj\Debug\net8.0-windows\RecoderAndWriter.SettingForm.resources
+R:\csharp\RecoderAndWriter\obj\Debug\net8.0-windows\RecoderAndWriter.sourcelink.json

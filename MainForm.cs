@@ -27,7 +27,7 @@ namespace RecoderAndWriter
 
         private void makeDefaultConfig()
         {
-            if (System.IO.File.Exists("./config.json"))
+            if (!System.IO.File.Exists("./config.json"))
             {
                 string url = "http://localhost:8000/convert_text";
                 Dictionary<string, string> dict = new Dictionary<string, string>();

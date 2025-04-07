@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecoderAndWriter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0726e5bdc219be2bd23f6d931099d0d3c44f1a7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecoderAndWriter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecoderAndWriter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

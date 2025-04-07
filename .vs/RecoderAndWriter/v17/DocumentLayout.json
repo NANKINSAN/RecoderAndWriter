@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "R:\\csharp\\RecoderAndWriter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\filenamesettingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:filenamesettingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\filenamesettingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|R:\\csharp\\RecoderAndWriter\\filenamesettingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:filenamesettingdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\responsetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|R:\\csharp\\RecoderAndWriter\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|r:\\csharp\\recoderandwriter\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|solutionrelative:settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{084F3252-CD53-4EFA-9FE3-629A66D070B9}|RecoderAndWriter.csproj|R:\\csharp\\RecoderAndWriter\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FilenameSettingDialog.cs",
               "DocumentMoniker": "R:\\csharp\\RecoderAndWriter\\FilenameSettingDialog.cs",
               "RelativeDocumentMoniker": "FilenameSettingDialog.cs",
@@ -55,19 +55,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FilenameSettingDialog.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "R:\\csharp\\RecoderAndWriter\\FilenameSettingDialog.cs",
               "RelativeDocumentMoniker": "FilenameSettingDialog.cs",
               "ToolTip": "R:\\csharp\\RecoderAndWriter\\FilenameSettingDialog.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "FilenameSettingDialog.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:01:28.881Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+              "WhenOpened": "2025-04-06T14:01:28.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ResponseType.cs",
               "DocumentMoniker": "R:\\csharp\\RecoderAndWriter\\ResponseType.cs",
               "RelativeDocumentMoniker": "ResponseType.cs",
@@ -75,18 +74,17 @@
               "RelativeToolTip": "ResponseType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:15:33.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T08:15:33.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "SettingForm.cs",
               "DocumentMoniker": "R:\\csharp\\RecoderAndWriter\\SettingForm.cs",
               "RelativeDocumentMoniker": "SettingForm.cs",
               "ToolTip": "R:\\csharp\\RecoderAndWriter\\SettingForm.cs",
               "RelativeToolTip": "SettingForm.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T00:36:25.594Z",
               "EditorCaption": ""
@@ -104,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "R:\\csharp\\RecoderAndWriter\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
               "ToolTip": "R:\\csharp\\RecoderAndWriter\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAADgv3IAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T00:35:45.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
               "DocumentMoniker": "R:\\csharp\\RecoderAndWriter\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
